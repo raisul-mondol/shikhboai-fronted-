@@ -6,7 +6,7 @@ function Login() {
      border-white/20 rounded-2xl p-8 shadow-2xl flex-col justify-center items-center" >
     
     <p className='text-2xl'>Shikhbi Ai</p>
-    <p className='text-2xl'>Admin panel</p>
+    <p className='text-2xl'>Admin Panel</p>
 
 
     
