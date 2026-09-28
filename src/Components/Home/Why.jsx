@@ -122,7 +122,7 @@ function Why() {
           >
             <div className={iconBox}>
               <img
-                src="/Ai.png"
+                src="/ai.png"
                 className="w-9 h-9 object-contain"
                 alt="AI Tools"
               />
