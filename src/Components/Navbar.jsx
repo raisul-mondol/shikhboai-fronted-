@@ -78,7 +78,7 @@ function Navbar() {
         "
       >
         <img
-          src="/Ais1.png"
+          src="/Ais2.png"
           alt="Logo"
           className="
             h-15
