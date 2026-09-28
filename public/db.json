@@ -1,0 +1,1722 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "category": "Frontend Development",
+      "title": "Modern Frontend Development with JavaScript, React & Tailwind CSS",
+      "description": "Master modern frontend development from the ground up with JavaScript, React and Tailwind CSS. Learn JavaScript fundamentals, ES6+, DOM manipulation, asynchronous programming, API integration and modern development practices. Build interactive and responsive user interfaces with React, understand components, props, state, hooks and React Router, and create beautiful modern designs using Tailwind CSS. Work on real-world projects and develop the practical skills needed to become a professional frontend developer.",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+      "featured": true,
+      "duration": "12 Weeks",
+      "lessons": 36,
+      "students": 48,
+      "certificate": true,
+      "instructor": "Rakib Hasan",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=2&backgroundColor=eaf6e3",
+      "price": 25000,
+      "discount": 50,
+      "discountPercent": 50,
+      "discountPrice": 12500,
+      "level": "Intermediate",
+      "rating": 4.9,
+      "reviewCount": 98,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Offline",
+      "status": "Ongoing",
+      "requirements": [
+        "Basic HTML and CSS knowledge",
+        "Basic computer knowledge",
+        "A computer or laptop",
+        "Internet connection"
+      ],
+      "whatYouWillLearn": [
+        "Modern JavaScript fundamentals",
+        "ES6+ features and modern JavaScript syntax",
+        "Variables, functions and scope",
+        "Arrays, objects and higher-order functions",
+        "DOM manipulation and event handling",
+        "Promises, async/await and asynchronous JavaScript",
+        "Fetch data from REST APIs",
+        "JavaScript error handling",
+        "React fundamentals and component-based development",
+        "JSX, props and state management",
+        "React Hooks including useState and useEffect",
+        "React Router and navigation",
+        "Form handling and user interactions",
+        "Reusable React components",
+        "Tailwind CSS fundamentals",
+        "Responsive UI design with Tailwind CSS",
+        "Build modern frontend applications",
+        "Deploy frontend projects"
+      ],
+      "projects": [
+        "JavaScript Interactive Website",
+        "Weather Application with API",
+        "React Course Platform",
+        "Responsive E-commerce Website",
+        "Modern Portfolio Website"
+      ],
+      "tools": [
+        "JavaScript",
+        "React",
+        "Tailwind CSS",
+        "VS Code",
+        "Git & GitHub",
+        "Vite",
+        "REST API"
+      ],
+      "courseIncludes": [
+        "36+ offline classes",
+        "12 weeks of structured learning",
+        "JavaScript practical exercises",
+        "React real-world projects",
+        "Tailwind CSS projects",
+        "API integration practice",
+        "Hands-on lab sessions",
+        "Course certificate",
+        "Classroom support",
+        "Lifetime access to course resources"
+      ],
+      "modules": [
+        {
+          "title": "JavaScript Fundamentals",
+          "lessons": 5
+        },
+        {
+          "title": "Modern JavaScript & ES6+",
+          "lessons": 5
+        },
+        {
+          "title": "DOM, Events & API Integration",
+          "lessons": 5
+        },
+        {
+          "title": "React Fundamentals",
+          "lessons": 10
+        },
+        {
+          "title": "React Hooks & Routing",
+          "lessons": 2
+        },
+        {
+          "title": "Tailwind CSS & Responsive Design",
+          "lessons": 3
+        },
+        {
+          "title": "Real-World Frontend Projects",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "Frontend Development Instructor",
+      "instructorBio": "An experienced frontend development instructor focused on modern JavaScript, React and Tailwind CSS with practical, project-based learning."
+    },
+    {
+      "id": 2,
+      "category": "Frontend Development",
+      "title": "Modern JavaScript Mastery",
+      "description": "Master modern JavaScript and understand how professional web applications work behind the scenes. Learn ES6+, functions, arrays, objects, DOM manipulation, events and asynchronous programming. Work with APIs, promises, async and await through practical projects. Build a strong JavaScript foundation that prepares you for React and modern frontend development.",
+      "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 42,
+      "certificate": true,
+      "instructor": "Sadia Rahman",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=2&backgroundColor=eaf6e3",
+      "price": 25000,
+      "discount": 50,
+      "level": "Beginner",
+      "discountPercent": 50,
+      "rating": 4.9,
+      "reviewCount": 82,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic HTML and CSS knowledge",
+        "A computer or laptop",
+        "Internet connection"
+      ],
+      "whatYouWillLearn": [
+        "Modern JavaScript syntax",
+        "ES6+ features",
+        "DOM manipulation",
+        "Events and asynchronous JavaScript",
+        "Promises, async and await",
+        "Working with APIs"
+      ],
+      "projects": [
+        "Interactive Quiz App",
+        "Weather API App",
+        "JavaScript Task Manager"
+      ],
+      "tools": [
+        "JavaScript",
+        "VS Code",
+        "Chrome DevTools",
+        "Git & GitHub"
+      ],
+      "courseIncludes": [
+        "58 video lessons",
+        "8 weeks of structured learning",
+        "Practical JavaScript projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "JavaScript Fundamentals",
+          "lessons": 7
+        },
+        {
+          "title": "ES6+ & Modern Syntax",
+          "lessons": 7
+        },
+        {
+          "title": "DOM & Events",
+          "lessons": 6
+        },
+        {
+          "title": "Async JavaScript & APIs",
+          "lessons": 6
+        },
+        {
+          "title": "Final Projects",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "JavaScript Instructor",
+      "instructorBio": "A practical JavaScript instructor who helps students understand modern web development through projects.",
+      "status": "Inactive"
+    },
+    {
+      "id": 3,
+      "category": "Frontend Development",
+      "title": "React JS Professional Course",
+      "description": "Learn React from the fundamentals and gradually move toward building professional web applications. Understand components, props, state, hooks, forms, React Router and API integration. Build reusable and scalable user interfaces using modern React development practices. Complete practical projects that help you become confident in real-world frontend development.",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 37,
+      "certificate": true,
+      "instructor": "Tanvir Ahmed",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=3&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Beginner",
+      "discount": 50,
+      "discountPercent": 50,
+      "rating": 4.9,
+      "reviewCount": 91,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic HTML, CSS and JavaScript",
+        "A computer or laptop",
+        "Internet connection"
+      ],
+      "whatYouWillLearn": [
+        "React components and JSX",
+        "Props and state management",
+        "React Hooks",
+        "Forms and validation",
+        "React Router",
+        "API integration and reusable components"
+      ],
+      "projects": [
+        "Portfolio Dashboard",
+        "E-commerce Frontend",
+        "Movie Search Application"
+      ],
+      "tools": [
+        "React",
+        "JavaScript",
+        "VS Code",
+        "React Router",
+        "Git & GitHub"
+      ],
+      "courseIncludes": [
+        "76 video lessons",
+        "10 weeks of structured learning",
+        "Real-world React projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "React Fundamentals",
+          "lessons": 7
+        },
+        {
+          "title": "Components & Props",
+          "lessons": 7
+        },
+        {
+          "title": "State & Hooks",
+          "lessons": 6
+        },
+        {
+          "title": "React Router & APIs",
+          "lessons": 6
+        },
+        {
+          "title": "Final Projects",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "Senior Frontend Developer",
+      "instructorBio": "A passionate frontend developer focused on modern React applications and practical project-based teaching.",
+      "status": "Inactive"
+    },
+    {
+      "id": 4,
+      "category": "Frontend Development",
+      "title": "Tailwind CSS & Modern UI",
+      "description": "Learn how to create modern and responsive websites using Tailwind CSS from beginner to advanced level. Understand utility classes, responsive breakpoints, layouts, typography, animations and reusable UI patterns. Build beautiful interfaces faster while maintaining clean and maintainable code. Create multiple real-world projects that can be added to your portfolio.",
+      "image": "https://images.unsplash.com/photo-1545235617-9465d2a55698",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 45,
+      "certificate": true,
+      "instructor": "Nusrat Jahan",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=4&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Advanced",
+      "discount": 35,
+      "discountPercent": 20,
+      "rating": 4.8,
+      "reviewCount": 76,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic HTML knowledge",
+        "A computer or laptop",
+        "Internet connection"
+      ],
+      "whatYouWillLearn": [
+        "Tailwind utility classes",
+        "Responsive layouts",
+        "Typography and spacing",
+        "Flexbox and Grid",
+        "Animations and UI patterns",
+        "Reusable modern interfaces"
+      ],
+      "projects": [
+        "SaaS Landing Page",
+        "Modern Dashboard UI",
+        "Responsive Business Website"
+      ],
+      "tools": [
+        "Tailwind CSS",
+        "HTML",
+        "VS Code",
+        "JavaScript",
+        "Git & GitHub"
+      ],
+      "courseIncludes": [
+        "38 video lessons",
+        "5 weeks of structured learning",
+        "Modern UI projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "Tailwind Fundamentals",
+          "lessons": 7
+        },
+        {
+          "title": "Layouts & Responsive Design",
+          "lessons": 7
+        },
+        {
+          "title": "Typography & Components",
+          "lessons": 6
+        },
+        {
+          "title": "Animations & UI Patterns",
+          "lessons": 6
+        },
+        {
+          "title": "Final Projects",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "UI & Frontend Instructor",
+      "instructorBio": "A UI-focused instructor who teaches students how to build clean, responsive and maintainable interfaces.",
+      "status": "Inactive"
+    },
+    {
+      "id": 5,
+      "category": "Frontend Development",
+      "title": "Next.js Full Frontend Course",
+      "description": "Learn Next.js and understand how modern production-ready React applications are built. Explore App Router, layouts, server components, dynamic routes, data fetching and optimization techniques. Build fast and scalable applications with modern Next.js features and best practices. Finish practical projects that demonstrate your skills in real-world development.",
+      "image": "https://images.unsplash.com/photo-1558655146-d09347e92766",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 39,
+      "certificate": true,
+      "instructor": "Imran Hossain",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=5&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Intermediate",
+      "discount": 25,
+      "discountPercent": 20,
+      "rating": 4.8,
+      "reviewCount": 68,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "HTML, CSS and JavaScript basics",
+        "Basic React knowledge",
+        "A computer or laptop"
+      ],
+      "whatYouWillLearn": [
+        "Next.js App Router",
+        "Layouts and dynamic routes",
+        "Server components",
+        "Data fetching",
+        "Performance optimization",
+        "Production-ready frontend applications"
+      ],
+      "projects": [
+        "Next.js Blog",
+        "Product Listing App",
+        "Production Landing Page"
+      ],
+      "tools": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "VS Code",
+        "Git & GitHub"
+      ],
+      "courseIncludes": [
+        "65 video lessons",
+        "9 weeks of structured learning",
+        "Practical Next.js projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "Next.js Fundamentals",
+          "lessons": 7
+        },
+        {
+          "title": "App Router & Layouts",
+          "lessons": 7
+        },
+        {
+          "title": "Data Fetching",
+          "lessons": 6
+        },
+        {
+          "title": "Optimization",
+          "lessons": 6
+        },
+        {
+          "title": "Production Project",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "Next.js Instructor",
+      "instructorBio": "A modern frontend instructor focused on scalable React and Next.js development.",
+      "status": "Inactive"
+    },
+    {
+      "id": 6,
+      "category": "Backend Development",
+      "title": "Node.js & Express Backend",
+      "description": "Build powerful backend applications using Node.js and Express with practical project-based learning. Learn server creation, routing, middleware, REST APIs, authentication and error handling. Connect your backend applications with databases and frontend applications. Build secure and scalable APIs that are useful for real-world full stack projects.",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 47,
+      "certificate": true,
+      "instructor": "Arif Khan",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=6&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Beginner",
+      "discount": 50,
+      "discountPercent": 20,
+      "rating": 4.9,
+      "reviewCount": 94,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic JavaScript knowledge",
+        "A computer or laptop",
+        "Internet connection"
+      ],
+      "whatYouWillLearn": [
+        "Node.js fundamentals",
+        "Express routing",
+        "Middleware",
+        "REST API development",
+        "Authentication",
+        "Error handling and database integration"
+      ],
+      "projects": [
+        "REST API",
+        "Authentication System",
+        "E-commerce Backend API"
+      ],
+      "tools": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Postman",
+        "VS Code"
+      ],
+      "courseIncludes": [
+        "72 video lessons",
+        "10 weeks of structured learning",
+        "Backend projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "Node.js Fundamentals",
+          "lessons": 7
+        },
+        {
+          "title": "Express & Routing",
+          "lessons": 7
+        },
+        {
+          "title": "REST APIs",
+          "lessons": 6
+        },
+        {
+          "title": "Authentication",
+          "lessons": 6
+        },
+        {
+          "title": "Backend Project",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "Backend Development Instructor",
+      "instructorBio": "A backend-focused instructor who teaches API development and practical server-side architecture.",
+      "status": "Inactive"
+    },
+    {
+      "id": 7,
+      "category": "Backend Development",
+      "title": "REST API Development",
+      "description": "Learn how professional REST APIs are designed, developed and consumed by modern applications. Understand HTTP methods, status codes, routes, controllers, middleware and request validation. Build complete APIs with authentication, error handling and database integration. Test your APIs and learn practices used in production backend development.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 41,
+      "certificate": true,
+      "instructor": "Mehedi Hasan",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=7&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Beginner",
+      "discount": 50,
+      "discountPercent": 20,
+      "rating": 4.8,
+      "reviewCount": 73,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic JavaScript knowledge",
+        "Basic Node.js knowledge",
+        "A computer or laptop"
+      ],
+      "whatYouWillLearn": [
+        "HTTP methods and status codes",
+        "REST architecture",
+        "Routes and controllers",
+        "Middleware and validation",
+        "Authentication",
+        "API testing and database integration"
+      ],
+      "projects": [
+        "Blog REST API",
+        "Task Management API",
+        "Authentication API"
+      ],
+      "tools": [
+        "Node.js",
+        "Express.js",
+        "Postman",
+        "MongoDB",
+        "Git"
+      ],
+      "courseIncludes": [
+        "45 video lessons",
+        "6 weeks of structured learning",
+        "API projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "REST API Fundamentals",
+          "lessons": 7
+        },
+        {
+          "title": "Routes & Controllers",
+          "lessons": 7
+        },
+        {
+          "title": "Middleware & Validation",
+          "lessons": 6
+        },
+        {
+          "title": "Authentication",
+          "lessons": 6
+        },
+        {
+          "title": "API Project",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "API Development Instructor",
+      "instructorBio": "A backend instructor specializing in clean REST APIs, authentication and practical application architecture.",
+      "status": "Inactive"
+    },
+    {
+      "id": 8,
+      "category": "Backend Development",
+      "title": "MongoDB & Database Design",
+      "description": "Learn MongoDB and understand how modern applications store and manage data using a NoSQL database. Explore collections, documents, queries, indexes, aggregation and database relationships. Connect MongoDB with Node.js applications and build practical database-driven projects. Develop the skills needed to work confidently with databases in full stack applications.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 36,
+      "certificate": true,
+      "instructor": "Fahim Rahman",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=8&backgroundColor=eaf6e3",
+      "price": 25000,
+      "discount": 45,
+      "level": "Beginner",
+      "discountPercent": 20,
+      "rating": 4.9,
+      "reviewCount": 87,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic JavaScript knowledge",
+        "Basic database concepts",
+        "A computer or laptop"
+      ],
+      "whatYouWillLearn": [
+        "MongoDB collections and documents",
+        "CRUD operations",
+        "Queries and indexes",
+        "Aggregation",
+        "Database relationships",
+        "MongoDB with Node.js"
+      ],
+      "projects": [
+        "Student Database",
+        "Product Database",
+        "Full Stack MongoDB Project"
+      ],
+      "tools": [
+        "MongoDB",
+        "MongoDB Compass",
+        "Node.js",
+        "Express.js",
+        "VS Code"
+      ],
+      "courseIncludes": [
+        "52 video lessons",
+        "7 weeks of structured learning",
+        "Database projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "MongoDB Fundamentals",
+          "lessons": 7
+        },
+        {
+          "title": "CRUD & Queries",
+          "lessons": 7
+        },
+        {
+          "title": "Indexes & Aggregation",
+          "lessons": 6
+        },
+        {
+          "title": "Relationships",
+          "lessons": 6
+        },
+        {
+          "title": "Database Project",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "Database Instructor",
+      "instructorBio": "A practical database instructor focused on MongoDB, data modeling and real-world application development.",
+      "status": "Inactive"
+    },
+    {
+      "id": 9,
+      "category": "Full Stack Development",
+      "title": "Full Stack Web Development with React, PHP & Laravel",
+      "description": "Learn full stack web development by combining React for modern frontend development with PHP and Laravel for powerful backend applications. Build responsive user interfaces, create reusable React components, manage application state, work with REST APIs, and connect your frontend with Laravel backend services. Learn database operations, authentication, API development and full stack application architecture. Build complete real-world applications and develop the practical skills needed to become a professional full stack developer.",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+      "featured": true,
+      "duration": "12 Weeks",
+      "lessons": 30,
+      "students": 49,
+      "certificate": true,
+      "instructor": "Shakil Ahmed",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=9&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Beginner",
+      "discount": 50,
+      "discountPercent": 50,
+      "discountPrice": 12500,
+      "rating": 4.8,
+      "reviewCount": 96,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Offline",
+      "status": "Ongoing",
+      "requirements": [
+        "Basic HTML and CSS knowledge",
+        "Basic JavaScript knowledge",
+        "Basic programming knowledge",
+        "A computer or laptop",
+        "Internet connection"
+      ],
+      "whatYouWillLearn": [
+        "React fundamentals and component-based development",
+        "JSX, props and state management",
+        "React Hooks including useState and useEffect",
+        "React Router and frontend navigation",
+        "Build reusable React components",
+        "Create responsive interfaces with React",
+        "PHP fundamentals and modern PHP syntax",
+        "Laravel framework fundamentals",
+        "Laravel routing and controllers",
+        "Models, migrations and database relationships",
+        "Laravel authentication and authorization",
+        "Build REST APIs with Laravel",
+        "Connect React frontend with Laravel APIs",
+        "CRUD operations with React and Laravel",
+        "MySQL database integration",
+        "Full stack application architecture",
+        "Deploy full stack web applications"
+      ],
+      "projects": [
+        "React Portfolio Website",
+        "Laravel REST API",
+        "React & Laravel Blog Application",
+        "Full Stack Student Management System",
+        "Full Stack E-commerce Application"
+      ],
+      "tools": [
+        "React",
+        "JavaScript",
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "REST API",
+        "Vite",
+        "Composer",
+        "VS Code",
+        "Git & GitHub"
+      ],
+      "courseIncludes": [
+        "36+ offline lessions",
+        "12 weeks of structured learning",
+        "React frontend projects",
+        "PHP & Laravel backend projects",
+        "REST API development",
+        "Database and authentication practice",
+        "Full stack real-world projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "React & Frontend Fundamentals",
+          "lessons": 10
+        },
+        {
+          "title": "Advanced React & API Integration",
+          "lessons": 3
+        },
+        {
+          "title": "PHP Programming Fundamentals",
+          "lessons": 5
+        },
+        {
+          "title": "Laravel Fundamentals & MVC",
+          "lessons": 7
+        },
+        {
+          "title": "Database, Authentication & REST API",
+          "lessons": 3
+        },
+        {
+          "title": "React + Laravel Full Stack Development",
+          "lessons": 3
+        },
+        {
+          "title": "Final Full Stack Project",
+          "lessons": 4
+        }
+      ],
+      "instructorRole": "Full Stack Development Instructor",
+      "instructorBio": "An experienced full stack development instructor focused on React, PHP and Laravel, helping learners build complete and production-ready web applications through practical projects."
+    },
+    {
+      "id": 10,
+      "category": "Full Stack Development",
+      "title": "MERN Stack Development",
+      "description": "Master the complete MERN stack and learn how to build modern full stack web applications. Work with MongoDB, Express, React and Node.js while connecting frontend and backend systems. Build authentication, REST APIs, database operations and complete user interfaces. Finish multiple real-world projects and prepare yourself for professional full stack development.",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+      "featured": true,
+      "duration": "12 Weeks",
+      "lessons": 36,
+      "students": 44,
+      "certificate": true,
+      "instructor": "Rafiul Islam",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=10&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Intermediate",
+      "discount": 50,
+      "discountPercent": 20,
+      "rating": 4.9,
+      "reviewCount": 60,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Offline",
+      "status": "Ongoing",
+      "requirements": [
+        "Basic JavaScript knowledge",
+        "Basic React knowledge",
+        "A computer or laptop"
+      ],
+      "whatYouWillLearn": [
+        "MongoDB database development",
+        "Express REST APIs",
+        "React application development",
+        "Node.js backend development",
+        "Authentication",
+        "Complete full stack architecture"
+      ],
+      "projects": [
+        "MERN E-commerce",
+        "Social Media App",
+        "Job Portal"
+      ],
+      "tools": [
+        "MongoDB",
+        "Express.js",
+        "React",
+        "Node.js",
+        "Git & GitHub"
+      ],
+      "courseIncludes": [
+        "36 lessons",
+        "12 weeks of structured learning",
+        "Multiple real-world projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "React Frontend",
+          "lessons": 10
+        },
+        {
+          "title": "Node & Express",
+          "lessons": 10
+        },
+        {
+          "title": "MongoDB",
+          "lessons": 5
+        },
+        {
+          "title": "Authentication & APIs",
+          "lessons": 3
+        },
+        {
+          "title": "Full Stack Projects",
+          "lessons": 8
+        }
+      ],
+      "instructorRole": "Full Stack Development Instructor",
+      "instructorBio": "A full stack developer and instructor focused on building production-style MERN applications through practical projects."
+    },
+    {
+      "id": 11,
+      "category": "Full Stack Development",
+      "title": "Full Stack JavaScript",
+      "description": "Learn full stack JavaScript development by working with both frontend and backend technologies. Build responsive interfaces, create REST APIs and connect applications with databases. Understand authentication, application structure, Git and deployment workflows. Complete practical projects that help you understand how modern web applications are developed end to end.",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 38,
+      "certificate": true,
+      "instructor": "Siam Chowdhury",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=11&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Advanced",
+      "discount": 50,
+      "discountPercent": 20,
+      "rating": 4.8,
+      "reviewCount": 79,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "HTML and CSS basics",
+        "JavaScript basics",
+        "A computer or laptop"
+      ],
+      "whatYouWillLearn": [
+        "Frontend application development",
+        "Backend APIs",
+        "Database integration",
+        "Authentication",
+        "Git workflow",
+        "Deployment fundamentals"
+      ],
+      "projects": [
+        "Full Stack Blog",
+        "Task Management App",
+        "Portfolio Platform"
+      ],
+      "tools": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "courseIncludes": [
+        "105 video lessons",
+        "14 weeks of structured learning",
+        "Full stack projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "Frontend Development",
+          "lessons": 7
+        },
+        {
+          "title": "Backend Development",
+          "lessons": 7
+        },
+        {
+          "title": "Database Integration",
+          "lessons": 6
+        },
+        {
+          "title": "Authentication & Git",
+          "lessons": 6
+        },
+        {
+          "title": "Final Projects",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "Full Stack JavaScript Instructor",
+      "instructorBio": "A full stack instructor focused on connecting modern frontend, backend and database technologies.",
+      "status": "Inactive"
+    },
+    {
+      "id": 12,
+      "category": "Full Stack Development",
+      "title": "Next.js Full Stack Bootcamp",
+      "description": "Learn how to build complete full stack applications using Next.js and modern web technologies. Explore frontend development, API routes, server-side features, databases and authentication. Build fast, scalable and production-ready applications using practical development patterns. Create portfolio-worthy projects while learning professional full stack workflows.",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 46,
+      "certificate": true,
+      "instructor": "Arafat Hossain",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=12&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Beginner",
+      "discount": 50,
+      "discountPercent": 20,
+      "rating": 4.8,
+      "reviewCount": 65,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "JavaScript basics",
+        "React basics",
+        "A computer or laptop"
+      ],
+      "whatYouWillLearn": [
+        "Next.js frontend development",
+        "API routes",
+        "Server-side features",
+        "Database integration",
+        "Authentication",
+        "Production-ready applications"
+      ],
+      "projects": [
+        "Next.js E-commerce",
+        "Content Platform",
+        "Full Stack Dashboard"
+      ],
+      "tools": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "VS Code"
+      ],
+      "courseIncludes": [
+        "96 video lessons",
+        "13 weeks of structured learning",
+        "Full stack projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "Next.js Frontend",
+          "lessons": 7
+        },
+        {
+          "title": "Routing & Server Features",
+          "lessons": 7
+        },
+        {
+          "title": "API & Database",
+          "lessons": 6
+        },
+        {
+          "title": "Authentication",
+          "lessons": 6
+        },
+        {
+          "title": "Final Projects",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "Next.js Full Stack Instructor",
+      "instructorBio": "A modern web instructor focused on building scalable full stack applications with Next.js.",
+      "status": "Inactive"
+    },
+    {
+      "id": 13,
+      "category": "UI/UX Design",
+      "title": "UI/UX Design with Figma",
+      "description": "Learn professional UI/UX design using Figma and understand the complete design process. Create wireframes, user flows, prototypes, responsive layouts and reusable design systems. Learn typography, colors, spacing and visual hierarchy through practical design exercises. Build professional portfolio projects that demonstrate your UI/UX design skills.",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 43,
+      "certificate": true,
+      "instructor": "Mim Akter",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=13&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Intermediate",
+      "discount": 50,
+      "discountPercent": 20,
+      "rating": 4.9,
+      "reviewCount": 92,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic computer knowledge",
+        "A computer or laptop",
+        "Internet connection"
+      ],
+      "whatYouWillLearn": [
+        "Figma interface and tools",
+        "Wireframes",
+        "User flows",
+        "Responsive layouts",
+        "Design systems",
+        "Interactive prototypes"
+      ],
+      "projects": [
+        "Mobile App UI",
+        "SaaS Dashboard",
+        "E-commerce Website Design"
+      ],
+      "tools": [
+        "Figma",
+        "FigJam",
+        "Adobe Color",
+        "Google Fonts"
+      ],
+      "courseIncludes": [
+        "60 video lessons",
+        "8 weeks of structured learning",
+        "Portfolio-ready designs",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "UI/UX Fundamentals",
+          "lessons": 7
+        },
+        {
+          "title": "Wireframes & User Flows",
+          "lessons": 7
+        },
+        {
+          "title": "Figma Components",
+          "lessons": 6
+        },
+        {
+          "title": "Responsive UI Design",
+          "lessons": 6
+        },
+        {
+          "title": "Portfolio Projects",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "UI/UX Design Instructor",
+      "instructorBio": "A UI/UX instructor focused on practical design systems, user flows and portfolio-ready projects.",
+      "status": "Inactive"
+    },
+    {
+      "id": 14,
+      "category": "UI/UX Design",
+      "title": "Professional Web Design",
+      "description": "Learn the fundamentals of professional web design and create visually attractive digital experiences. Understand layout, typography, color theory, spacing, visual hierarchy and responsive design principles. Practice designing modern websites for different industries and business needs. Build polished projects that can be presented in your design portfolio.",
+      "image": "https://images.unsplash.com/photo-1558655146-d09347e92766",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 35,
+      "certificate": true,
+      "instructor": "Jannatul Ferdous",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=14&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Beginner",
+      "discount": 40,
+      "discountPercent": 20,
+      "rating": 4.8,
+      "reviewCount": 71,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic computer knowledge",
+        "A computer or laptop",
+        "Interest in visual design"
+      ],
+      "whatYouWillLearn": [
+        "Layout principles",
+        "Typography",
+        "Color theory",
+        "Spacing and hierarchy",
+        "Responsive design",
+        "Professional website design"
+      ],
+      "projects": [
+        "Agency Website",
+        "Restaurant Website",
+        "Corporate Website"
+      ],
+      "tools": [
+        "Figma",
+        "Adobe Color",
+        "Google Fonts",
+        "FigJam"
+      ],
+      "courseIncludes": [
+        "44 video lessons",
+        "6 weeks of structured learning",
+        "Design projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "Design Fundamentals",
+          "lessons": 7
+        },
+        {
+          "title": "Typography & Color",
+          "lessons": 7
+        },
+        {
+          "title": "Layout & Hierarchy",
+          "lessons": 6
+        },
+        {
+          "title": "Responsive Design",
+          "lessons": 6
+        },
+        {
+          "title": "Final Designs",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "Web Design Instructor",
+      "instructorBio": "A visual design instructor focused on clean layouts, strong typography and modern web experiences.",
+      "status": "Inactive"
+    },
+    {
+      "id": 15,
+      "category": "UI/UX Design",
+      "title": "Figma to Website Design",
+      "description": "Learn how to transform professional Figma designs into clean and responsive website layouts. Understand design handoff, spacing, typography, components and responsive behavior from a developer's perspective. Practice converting real UI designs into structured web interfaces. Build projects that improve your collaboration skills between designers and developers.",
+      "image": "https://images.unsplash.com/photo-1545235617-9465d2a55698",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 40,
+      "certificate": true,
+      "instructor": "Tahsin Ahmed",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=15&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Advanced",
+      "discount": 50,
+      "discountPercent": 20,
+      "rating": 4.7,
+      "reviewCount": 84,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic Figma knowledge",
+        "Basic HTML/CSS knowledge",
+        "A computer or laptop"
+      ],
+      "whatYouWillLearn": [
+        "Figma handoff",
+        "Design-to-code workflow",
+        "Spacing and typography",
+        "Responsive behavior",
+        "Components",
+        "Converting designs into websites"
+      ],
+      "projects": [
+        "Figma Landing Page",
+        "Business Website",
+        "Responsive Portfolio"
+      ],
+      "tools": [
+        "Figma",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "VS Code"
+      ],
+      "courseIncludes": [
+        "36 video lessons",
+        "5 weeks of structured learning",
+        "Design-to-code projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "Figma Handoff",
+          "lessons": 7
+        },
+        {
+          "title": "HTML Structure",
+          "lessons": 7
+        },
+        {
+          "title": "CSS Implementation",
+          "lessons": 6
+        },
+        {
+          "title": "Responsive Conversion",
+          "lessons": 6
+        },
+        {
+          "title": "Final Project",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "UI Developer Instructor",
+      "instructorBio": "An instructor specializing in translating polished Figma designs into responsive web interfaces.",
+      "status": "Inactive"
+    },
+    {
+      "id": 16,
+      "category": "WordPress Development",
+      "title": "WordPress Web Development",
+      "description": "Learn how to build professional websites using WordPress without starting everything from scratch. Understand themes, plugins, pages, menus, customization and essential WordPress settings. Build responsive business websites and manage their content effectively. Develop practical skills that can be used for freelance and client-based WordPress projects.",
+      "image": "https://images.unsplash.com/photo-1547658719-da2b51169166",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 48,
+      "certificate": true,
+      "instructor": "Hasan Mahmud",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=16&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Advanced",
+      "discount": 30,
+      "discountPercent": 20,
+      "rating": 4.8,
+      "reviewCount": 63,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic computer knowledge",
+        "A computer or laptop",
+        "Internet connection"
+      ],
+      "whatYouWillLearn": [
+        "WordPress installation",
+        "Themes and plugins",
+        "Pages and menus",
+        "Website customization",
+        "Responsive websites",
+        "Content management"
+      ],
+      "projects": [
+        "Business Website",
+        "Personal Blog",
+        "Service Company Website"
+      ],
+      "tools": [
+        "WordPress",
+        "Elementor",
+        "WooCommerce",
+        "cPanel"
+      ],
+      "courseIncludes": [
+        "55 video lessons",
+        "7 weeks of structured learning",
+        "WordPress projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "WordPress Fundamentals",
+          "lessons": 7
+        },
+        {
+          "title": "Themes & Customization",
+          "lessons": 7
+        },
+        {
+          "title": "Plugins & Features",
+          "lessons": 6
+        },
+        {
+          "title": "Business Website",
+          "lessons": 6
+        },
+        {
+          "title": "Final Project",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "WordPress Instructor",
+      "instructorBio": "A WordPress instructor focused on practical website building, customization and client-ready projects.",
+      "status": "Inactive"
+    },
+    {
+      "id": 17,
+      "category": "WordPress Development",
+      "title": "WordPress Elementor Masterclass",
+      "description": "Master Elementor and learn how to create modern WordPress websites using a visual page builder. Build responsive layouts, landing pages, business pages and reusable sections without complex coding. Learn Elementor widgets, containers, responsive controls and customization techniques. Complete practical website projects suitable for real clients and portfolios.",
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 39,
+      "certificate": true,
+      "instructor": "Rumana Islam",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=17&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Beginner",
+      "discount": 50,
+      "discountPercent": 20,
+      "rating": 4.8,
+      "reviewCount": 89,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic WordPress knowledge",
+        "A computer or laptop",
+        "Internet connection"
+      ],
+      "whatYouWillLearn": [
+        "Elementor fundamentals",
+        "Containers and widgets",
+        "Responsive controls",
+        "Landing page design",
+        "Reusable sections",
+        "Client-ready websites"
+      ],
+      "projects": [
+        "Landing Page",
+        "Agency Website",
+        "Product Website"
+      ],
+      "tools": [
+        "WordPress",
+        "Elementor",
+        "WooCommerce",
+        "Figma"
+      ],
+      "courseIncludes": [
+        "40 video lessons",
+        "5 weeks of structured learning",
+        "Elementor projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "Elementor Fundamentals",
+          "lessons": 7
+        },
+        {
+          "title": "Containers & Widgets",
+          "lessons": 7
+        },
+        {
+          "title": "Responsive Design",
+          "lessons": 6
+        },
+        {
+          "title": "Landing Pages",
+          "lessons": 6
+        },
+        {
+          "title": "Client Project",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "WordPress & Elementor Instructor",
+      "instructorBio": "A practical WordPress instructor focused on visual website building and Elementor workflows.",
+      "status": "Inactive"
+    },
+    {
+      "id": 18,
+      "category": "WordPress Development",
+      "title": "WordPress Freelancing Course",
+      "description": "Learn WordPress development along with the practical skills required to start freelance projects. Build professional websites, customize themes and plugins, and understand common client requirements. Learn how to organize projects and deliver websites professionally to clients. Develop a portfolio of practical projects that can help you start your freelancing journey.",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 47,
+      "certificate": true,
+      "instructor": "Abdullah Al Mamun",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=18&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Intermediate",
+      "discount": 10,
+      "discountPercent": 20,
+      "rating": 4.9,
+      "reviewCount": 97,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic WordPress knowledge",
+        "A computer or laptop",
+        "Internet connection"
+      ],
+      "whatYouWillLearn": [
+        "Client website development",
+        "Theme customization",
+        "Plugin configuration",
+        "Project workflow",
+        "Client requirements",
+        "Freelance-ready delivery"
+      ],
+      "projects": [
+        "Client Business Website",
+        "Restaurant Website",
+        "Freelance Portfolio Website"
+      ],
+      "tools": [
+        "WordPress",
+        "Elementor",
+        "WooCommerce",
+        "cPanel",
+        "Canva"
+      ],
+      "courseIncludes": [
+        "62 video lessons",
+        "8 weeks of structured learning",
+        "Freelance projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "WordPress Workflow",
+          "lessons": 7
+        },
+        {
+          "title": "Theme Customization",
+          "lessons": 7
+        },
+        {
+          "title": "Plugins & Business Sites",
+          "lessons": 6
+        },
+        {
+          "title": "Client Requirements",
+          "lessons": 6
+        },
+        {
+          "title": "Freelance Project",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "WordPress Freelancing Instructor",
+      "instructorBio": "An instructor focused on practical WordPress projects, client requirements and professional delivery workflows.",
+      "status": "Inactive"
+    },
+    {
+      "id": 19,
+      "category": "Full Stack Development",
+      "title": "Job Ready Web Developer",
+      "description": "Follow a complete job-focused roadmap designed to take you from web development basics to professional skills. Learn frontend, backend, databases, APIs, Git, authentication and deployment through practical projects. Build multiple real-world applications that demonstrate your technical abilities. Prepare for interviews, portfolio development and your first professional web development role.",
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 42,
+      "certificate": true,
+      "instructor": "Nayeem Hasan",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=19&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Beginner",
+      "discount": 20,
+      "discountPercent": 20,
+      "rating": 4.9,
+      "reviewCount": 95,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic computer knowledge",
+        "A computer or laptop",
+        "Commitment to regular practice"
+      ],
+      "whatYouWillLearn": [
+        "Frontend development",
+        "Backend development",
+        "Databases and APIs",
+        "Authentication",
+        "Git and deployment",
+        "Portfolio and interview preparation"
+      ],
+      "projects": [
+        "Full Stack E-commerce",
+        "Job Portal",
+        "Learning Management System"
+      ],
+      "tools": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Git"
+      ],
+      "courseIncludes": [
+        "135 video lessons",
+        "18 weeks of structured learning",
+        "Multiple portfolio projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "Frontend Foundations",
+          "lessons": 7
+        },
+        {
+          "title": "JavaScript & React",
+          "lessons": 7
+        },
+        {
+          "title": "Backend & APIs",
+          "lessons": 6
+        },
+        {
+          "title": "Database & Authentication",
+          "lessons": 6
+        },
+        {
+          "title": "Portfolio & Job Preparation",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "Job Ready Web Development Instructor",
+      "instructorBio": "A practical web development instructor focused on job-ready skills, real-world projects and portfolio development.",
+      "status": "Inactive"
+    },
+    {
+      "id": 20,
+      "category": "Frontend Development",
+      "title": "Frontend Developer Career Track",
+      "description": "Follow a structured frontend development career path from HTML and CSS to JavaScript and React. Build a strong foundation in responsive design, modern JavaScript, reusable components and API integration. Complete practical projects using the tools and techniques used by professional developers. Develop a job-ready portfolio and gain confidence for frontend developer opportunities.",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "featured": false,
+      "duration": "12 Weeks",
+      "lessons": 32,
+      "students": 36,
+      "certificate": true,
+      "instructor": "Sabbir Ahmed",
+      "instructorImage": "https://api.dicebear.com/9.x/bottts/svg?seed=20&backgroundColor=eaf6e3",
+      "price": 25000,
+      "level": "Advanced",
+      "discount": 30,
+      "discountPercent": 20,
+      "rating": 4.9,
+      "reviewCount": 78,
+      "language": "English",
+      "access": "Lifetime",
+      "courseType": "Online",
+      "requirements": [
+        "Basic computer knowledge",
+        "A computer or laptop",
+        "Internet connection"
+      ],
+      "whatYouWillLearn": [
+        "HTML and CSS",
+        "Modern JavaScript",
+        "Responsive design",
+        "React development",
+        "API integration",
+        "Building a job-ready portfolio"
+      ],
+      "projects": [
+        "Portfolio Website",
+        "React Dashboard",
+        "API-powered Web App"
+      ],
+      "tools": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Tailwind CSS",
+        "Git & GitHub"
+      ],
+      "courseIncludes": [
+        "110 video lessons",
+        "15 weeks of structured learning",
+        "Portfolio projects",
+        "Course certificate",
+        "Lifetime access",
+        "Student support"
+      ],
+      "modules": [
+        {
+          "title": "HTML & CSS",
+          "lessons": 7
+        },
+        {
+          "title": "JavaScript",
+          "lessons": 7
+        },
+        {
+          "title": "Responsive UI",
+          "lessons": 6
+        },
+        {
+          "title": "React",
+          "lessons": 6
+        },
+        {
+          "title": "Portfolio & Career Track",
+          "lessons": 6
+        }
+      ],
+      "instructorRole": "Frontend Career Instructor",
+      "instructorBio": "A frontend development instructor focused on helping learners build strong fundamentals and portfolio-ready applications.",
+      "status": "Inactive"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Tanvir Ahmed",
+      "role": "Web Development Student",
+      "message": "The classes are very easy to understand and focused on practical learning. I learned a lot and gained confidence by building real-world projects.",
+      "image": "https://images.pexels.com/photos/37811192/pexels-photo-37811192.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Nusrat Jahan",
+      "role": "Frontend Development Student",
+      "message": "I really enjoyed learning JavaScript and React at Shikhbo AI. The instructors explain every topic clearly and make difficult concepts much easier to understand.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Portrait_of_a_Bangladeshi_woman.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rakib Hasan",
+      "role": "Full Stack Development Student",
+      "message": "The course is well structured and includes plenty of practical work. Working on real projects helped me improve my development skills and confidence.",
+      "image": "https://images.pexels.com/photos/37758103/pexels-photo-37758103.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Mim Akter",
+      "role": "UI/UX Design Student",
+      "message": "The UI/UX classes are simple, practical, and enjoyable. I learned how to work with Figma and create professional designs step by step.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bangladeshi_woman_wearing_glasses_%2801%29.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sakib Hossain",
+      "role": "Backend Development Student",
+      "message": "I had a great learning experience at Shikhbo AI. The practical sessions helped me understand backend development concepts and apply them to real projects.",
+      "image": "https://images.pexels.com/photos/37811191/pexels-photo-37811191.jpeg"
+    }
+  ]
+}
