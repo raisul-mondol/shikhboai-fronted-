@@ -164,7 +164,7 @@ function Footer() {
 
             
               <a
-                href="mailto:codetreebd@gmail.com"
+                href="mailto:shikhboai.bd@gmail.com"
                 aria-label="Email"
                 className="
                   flex h-10 w-10 items-center justify-center

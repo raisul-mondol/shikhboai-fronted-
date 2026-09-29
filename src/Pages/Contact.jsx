@@ -115,7 +115,7 @@ const Contact = () => {
                       transition
                     "
                   >
-                    codetreebd@gmail.com
+                    shikhboai.bd@gmail.com
                   </a>
 
                   <a
